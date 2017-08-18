@@ -1,0 +1,15 @@
+{
+  "name": "odt-form-fields",
+  "version": "0.1.0",
+  "description": "NodeJS module to manipulate OpenDocument Text Documents (OpenOffice/LibreOffice) by writing to form fields",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "jszip": "^3.0.0"
+  }
+}
