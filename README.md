@@ -9,7 +9,7 @@ NodeJS module (tested with v7) to manipulate form fields in *.odt (OpenDocument 
 ## Example
 
 ```
-const OdtFormFields = require('./index.js');
+const OdtFormFields = require('odt-form-fields');
 const fs = require('fs');
 const path = require('path');
 
