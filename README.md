@@ -6,6 +6,12 @@ NodeJS module (tested with v7) to manipulate form fields in *.odt (OpenDocument 
 
 * >= 7
 
+## Installation
+
+```
+npm install odt-form-fields
+```
+
 ## Example
 
 ```
